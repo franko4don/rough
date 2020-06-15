@@ -1,0 +1,46 @@
+[
+    {
+        "name": "WeTransfer Account",
+        "cost": "free forever",
+        "free": true,
+        "buttonText": "Sign up for free",
+        "outlines": [
+            {
+                "check": false,
+                "description": "No Storage"
+            },
+            {
+                "check": true,
+                "description": "Send up to 2 GB"
+            },
+            {
+                "check": true,
+                "description": "Resend and delete Transfer"
+            }
+        ]
+    },
+    {
+        "name": "WeTransfer Pro",
+        "cost": "$12 USD/Month",
+        "free": false,
+        "buttonText": "Get we transfer pro",
+        "outlines": [
+            {
+                "check": true,
+                "description": "1 TB Storage"
+            },
+            {
+                "check": true,
+                "description": "Send and receive up to 20GB"
+            },
+            {
+                "check": true,
+                "description": "Password Protect transfers"
+            },
+            {
+                "check": true,
+                "description": "Your own propage and URL"
+            }
+        ]
+    }
+]
